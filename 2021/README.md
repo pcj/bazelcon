@@ -22,7 +22,7 @@ Please add a link to your presentation to this file using the template below
 [Parsing source code to automate a gradual Bazel migration](https://docs.google.com/presentation/d/1AyBD-N7JNxfqCBmPCM_aX8pUSKPYj_wdNY9B8gYlvic/edit?usp=sharing)
 
 *Paul Johnston*
-[Automatic protocol buffer rule generation with gazelle](https://docs.google.com/presentation/d/1ls8GAA9LA7-lB8Mnc116s_ADmTlu4Md3e_2xHL8I0K0)
+[Automatic protocol buffer rule generation with gazelle](https://docs.google.com/presentation/d/1ls8GAA9LA7-lB8Mnc116s_ADmTlu4Md3e_2xHL8I0K0/edit?usp=sharing)
 
 *Thulio Ferraz Assis*
 [Extending Gazelle to dynamic languages](https://docs.google.com/presentation/d/1NMS4V2qVlUjVldVRinsjyUxKueOnzYHhypLlGTMCWUY/edit?usp=sharing)
